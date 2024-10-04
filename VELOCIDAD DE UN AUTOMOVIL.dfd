@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'velocidad de un carro'
+5
+1
+3
+vel
+6
+1
+9
+kilometro
+15
+(vel*1000)/3600
+4
+1
+34
+'velocidad alcanzada es',kilometro
+1
